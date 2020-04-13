@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.0.0 (2020-04-13)
+
+### Changes
+
+#### Breaking
+
+* Upgrade license ([ab63f6f](https://github.com/tpbtools/general-concepts/commit/ab63f6f))
+
+#### Build
+
+* Update Auto Release Log adding v1.0.0 info with JPL ([58c3984](https://github.com/tpbtools/general-concepts/commit/58c3984))
+
+#### Docs
+
+* Generate v0.8.3 changelog with JPL ([67a9f77](https://github.com/tpbtools/general-concepts/commit/67a9f77))
+
+### Authors
+
+* Pedro Amador
+
 ## v0.8.3 (2020-04-12)
 
 ### Changes
