@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.1 info with JPL ([bce845a](https://github.com/ayudadigital/general-concepts/commit/bce845a))
+* Use jpl v6.2.0 ([a0eeabf](https://github.com/ayudadigital/general-concepts/commit/a0eeabf))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([bfa58ff](https://github.com/ayudadigital/general-concepts/commit/bfa58ff))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-24)
 
 ### Changes
